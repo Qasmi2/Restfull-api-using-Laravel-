@@ -89,6 +89,10 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <div>
+
+                    <h1>testing git commnad</h1>
+                </div>
             </div>
         </div>
     </body>
